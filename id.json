@@ -1,0 +1,65 @@
+
+{
+  "channels": [
+    {
+      "id": "501",
+      "name": "Fox 501",
+      "url": "https://epiembeds.online/embed/fox-sports-501#FOX-501"
+    },
+    {
+      "id": "505",
+      "name": "Fox 505",
+      "url": "https://epiembeds.online/embed/fox-sports-505#FOX-505"
+    },
+    {
+      "id": "507",
+      "name": "Fox 507",
+      "url": "https://epiembeds.online/embed/fox-sports-507#FOX-507"
+    },
+    {
+      "id": "SUKC",
+      "name": "Sky Cricket",
+      "url": "https://epiembeds.online/embed/skysportscricket-uk#SKY%20SPORTS%20CRICKET"
+    },
+    {
+      "id": "SMIX",
+      "name": "Sky Mix",
+      "url": "https://epiembeds.online/embed/skysportsmix-uk#SKY%20SPORTS%20MIX"
+    },
+    {
+      "id": "SMAIN",
+      "name": "Sky Main",
+      "url": "https://epiembeds.online/embed/skysportsmainevent-uk#SKY%20SPORTS%20MAIN%20EVENT"
+    },
+    {
+      "id": "sky1",
+      "name": "Sky Nz 1",
+      "url": "https://epiembeds.online/embed/skysport1-nz#SKY%20SPORTS%201"
+    },
+    {
+      "id": "sky3",
+      "name": "Sky Nz 3",
+      "url": "https://epiembeds.online/embed/skysport3-nz#SKY%20SPORTS%203"
+    },
+    {
+      "id": "tnt1",
+      "name": "Tnt 1",
+      "url": "https://epiembeds.online/embed/tntsports1-uk#TNT%20SPORTS%201"
+    },
+    {
+      "id": "tnt2",
+      "name": "Tnt 2",
+      "url": "https://epiembeds.online/embed/tntsports2-uk#TNT%20SPORTS%202"
+    },
+    {
+      "id": "tnt3",
+      "name": "Tnt 3",
+      "url": "https://epiembeds.online/embed/tntsports3-uk#TNT%20SPORTS%203"
+    },
+    {
+      "id": "tnt4",
+      "name": "Tnt 4",
+      "url": "https://epiembeds.online/embed/tntsports4-uk#TNT%20SPORTS%204"
+    }
+  ]
+}
