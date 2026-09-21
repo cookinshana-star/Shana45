@@ -2,86 +2,6 @@
 {
   "channels": [
     {
-      "id": "501",
-      "name": "Fox 501",
-      "url": "https://epiembeds.online/embed/fox-sports-501#FOX-501"
-    },
-    {
-      "id": "505",
-      "name": "Fox 505",
-      "url": "https://epiembeds.online/embed/fox-sports-505#FOX-505"
-    },
-    {
-      "id": "507",
-      "name": "Fox 507",
-      "url": "https://epiembeds.online/embed/fox-sports-507#FOX-507"
-    },
-    {
-      "id": "503",
-      "name": "Fox 503",
-      "url": "https://epiembeds.online/embed/fox-sports-503#FOX-503"
-    },
-    {
-      "id": "SUKC",
-      "name": "Sky Cricket",
-      "url": "https://epiembeds.online/embed/skysportscricket-uk#SKY%20SPORTS%20CRICKET"
-    },
-    {
-      "id": "SMIX",
-      "name": "Sky Mix",
-      "url": "https://epiembeds.online/embed/skysportsmix-uk#SKY%20SPORTS%20MIX"
-    },
-    {
-      "id": "SMAIN",
-      "name": "Sky Main",
-      "url": "https://epiembeds.online/embed/skysportsmainevent-uk#SKY%20SPORTS%20MAIN%20EVENT"
-    },
-    {
-      "id": "sky1",
-      "name": "Sky Nz 1",
-      "url": "https://epiembeds.online/embed/skysport1-nz#SKY%20SPORTS%201"
-    },
-    {
-      "id": "sky2",
-      "name": "Sky Nz 2",
-      "url": "https://epiembeds.online/embed/skysport2-nz#SKY%20SPORTS%202"
-    },
-    {
-      "id": "sky4",
-      "name": "Sky Nz 4",
-      "url": "https://epiembeds.online/embed/skysport4-nz#SKY%20SPORTS%204"
-    },
-    {
-      "id": "sky5",
-      "name": "Sky Nz 5",
-      "url": "https://epiembeds.online/embed/skysport5-nz#SKY%20SPORTS%205"
-    },
-    {
-      "id": "sky6",
-      "name": "Sky Nz 6",
-      "url": "https://epiembeds.online/embed/skysport6-nz#SKY%20SPORTS%206"
-    },
-    {
-      "id": "sky7",
-      "name": "Sky Nz 7",
-      "url": "https://epiembeds.online/embed/skysport7-nz#SKY%20SPORTS%207"
-    },
-    {
-      "id": "sky8",
-      "name": "Sky Nz 8",
-      "url": "https://epiembeds.online/embed/skysport8-nz#SKY%20SPORTS%208"
-    },
-    {
-      "id": "sky9",
-      "name": "Sky Nz 9",
-      "url": "https://epiembeds.online/embed/skysport9-nz#SKY%20SPORTS%209"
-    },
-    {
-      "id": "sky3",
-      "name": "Sky Nz 3",
-      "url": "https://epiembeds.online/embed/skysport3-nz#SKY%20SPORTS%203"
-    },
-    {
       "id": "as",
       "name": "A Sports",
       "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8"
@@ -97,24 +17,9 @@
       "url": "https://paid-links-shrey7nsh.vercel.app/jtv?id=1106"
     },
     {
-      "id": "tnt1",
-      "name": "Tnt 1",
-      "url": "https://epiembeds.online/embed/tntsports1-uk#TNT%20SPORTS%201"
-    },
-    {
-      "id": "tnt2",
-      "name": "Tnt 2",
-      "url": "https://epiembeds.online/embed/tntsports2-uk#TNT%20SPORTS%202"
-    },
-    {
-      "id": "tnt3",
-      "name": "Tnt 3",
-      "url": "https://epiembeds.online/embed/tntsports3-uk#TNT%20SPORTS%203"
-    },
-    {
-      "id": "tnt4",
-      "name": "Tnt 4",
-      "url": "https://epiembeds.online/embed/tntsports4-uk#TNT%20SPORTS%204"
+      "id": "SS1HIN",
+      "name": "Star Sports 1 Hindi HD",
+      "url": "https://paid-links-shrey7nsh.vercel.app/jtv?id=1108"
     }
   ]
 }
